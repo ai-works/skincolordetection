@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 #Open a simple image
-i = "WhatsApp Image 2018-12-09 at 20.18.54.jpeg"
+i = "yourimage.png"
 img=cv2.imread(i)
 
 #converting from gbr to hsv color space
